@@ -1,5 +1,4 @@
-# Teen Hut:-
-<br>
+# Teen Hut 
 Status: In Development
 <br>
 Condition: Good
@@ -9,3 +8,4 @@ Work Done: 0%
 Completed By: 15 Dec 2025
 <br>
 Made By: Mukul Kumar
+<br>
