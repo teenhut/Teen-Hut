@@ -1,6 +1,6 @@
 # Teen Hut:-
 <br>
-status: In Development
+Status: In Development
 <br>
 Condition: Good
 <br>
